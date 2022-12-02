@@ -79,7 +79,6 @@
                                 <label for="image">Gambar Profile</label>
                                 <input type="file" class="form-control @error('image') is-invalid @enderror"
                                     name="image" value="{{ 'image' }}" required>
-
                                 <!-- error message -->
                                 @error('image')
                                     <div class="invalid-feedback">
