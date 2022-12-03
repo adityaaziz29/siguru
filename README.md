@@ -8,11 +8,10 @@ Siguru yang saya buat merupakan implementasi dari UI Design dari tim Guruinovati
 
 
 # Create
-<p align="center"><a href="" target="_blank"><img src="readme/create.png" width="400" alt=""></a></p>
+<img src="/readme/create.PNG" alt="Alt text" title="Optional title">
 
 # Edit
-<p align="center"><a href="" target="_blank"><img src="readme/edit.png" width="400" alt=""></a></p>
-
+<img src="/readme/edit.PNG" alt="Alt text" title="Optional title">
 
 ## LARAVEL
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
