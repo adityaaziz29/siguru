@@ -1,3 +1,19 @@
+## siguru
+
+SIguru Atau Sistem Informasi GURU merupakan sebuah aplikasi management monitoring project.
+Siguru yang saya buat merupakan implementasi dari UI Design dari tim Guruinovatif.id, berikut merupakan tampilannya.
+
+# Landing Page
+<p align="center"><a href="" target="_blank"><img src="readme/index.png" width="400" alt=""></a></p>
+
+# Create
+<p align="center"><a href="" target="_blank"><img src="readme/create.png" width="400" alt=""></a></p>
+
+# Edit
+<p align="center"><a href="" target="_blank"><img src="readme/edit.png" width="400" alt=""></a></p>
+
+
+## LARAVEL
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,4 +80,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# siguru
+
