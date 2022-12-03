@@ -4,7 +4,7 @@ SIguru Atau Sistem Informasi GURU merupakan sebuah aplikasi management monitorin
 Siguru yang saya buat merupakan implementasi dari UI Design dari tim Guruinovatif.id, berikut merupakan tampilannya.
 
 # Landing Page
-<p align="center"><a href="" target="_blank"><img src="readme/index.png" width="400" alt=""></a></p>
+<p align="center"><a href="" target="_blank"><img src="![alt text](https://github.com/adityaaziz29/siguru/blob/master/readme/image.jpg?raw=true" width="400" alt=""></a></p>
 
 # Create
 <p align="center"><a href="" target="_blank"><img src="readme/create.png" width="400" alt=""></a></p>
