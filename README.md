@@ -6,6 +6,9 @@ Siguru yang saya buat merupakan implementasi dari UI Design dari tim Guruinovati
 # Landing Page
 <p align="center"><a href="" target="_blank"><img src="![alt text](https://github.com/adityaaziz29/siguru/blob/master/readme/image.jpg?raw=true" width="400" alt=""></a></p>
 
+<img src="/readme/index.jpg" alt="Alt text" title="Optional title">
+
+
 # Create
 <p align="center"><a href="" target="_blank"><img src="readme/create.png" width="400" alt=""></a></p>
 
